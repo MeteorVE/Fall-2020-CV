@@ -1,0 +1,34 @@
+gauss_noise_10_box_3x3 : 17.630047765048577
+gauss_noise_10_box_5x5 : 14.812221427589957
+gauss_noise_10_median_3x3 : 17.604472006601195
+gauss_noise_10_median_5x5 : 15.950824871035842
+gauss_noise_10_opening_then_closing : 13.235255902011918
+gauss_noise_10_closing_then_opening : 13.605037750404925
+
+gauss_noise_30_box_3x3 : 12.566984379251915
+gauss_noise_30_box_5x5 : 13.256504140009662
+gauss_noise_30_median_3x3 : 11.070459611343344
+gauss_noise_30_median_5x5 : 12.874167077003662
+gauss_noise_30_opening_then_closing : 11.155697371480395
+gauss_noise_30_closing_then_opening : 11.234360344924763
+
+salt_noise_005_box_3x3 : 9.430278664598832
+salt_noise_005_box_5x5 : 11.149258731027325
+salt_noise_005_median_3x3 : 18.94780278505009
+salt_noise_005_median_5x5 : 16.359027196122252
+salt_noise_005_opening_then_closing : 5.242332612418268
+salt_noise_005_closing_then_opening : 5.270913004599032
+
+salt_noise_01_box_3x3 : 6.337072109882708
+salt_noise_01_box_5x5 : 8.515402258872276
+salt_noise_01_median_3x3 : 15.278885281707746
+salt_noise_01_median_5x5 : 15.684542376935456
+salt_noise_01_opening_then_closing : -2.057842136660816
+salt_noise_01_closing_then_opening : -2.569684738106016
+
+
+gauss_noise_10_no_filter : 13.581193413172748
+gauss_noise_30_no_filter : 4.168209004094693
+
+salt_noise_005_no_filter : 0.9060299394024686
+salt_noise_01_no_filter : -2.1098475291855783
