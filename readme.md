@@ -4,6 +4,8 @@ Computer Vision @ NTU, Fall 2020
 
 Lesson URL : [ Computer Vision I (922 U0610) ](http://cv2.csie.ntu.edu.tw/CV/index.html)
 
+有關作業 report 請進個別資料夾查看
+
 ## Homework 1
 
 Basic Image Manipulation
